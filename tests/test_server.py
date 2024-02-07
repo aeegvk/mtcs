@@ -1,7 +1,7 @@
 import pytest
 import asyncio
 import struct
-from server import start_server
+from ..server import start_server
 import threading
 
 from cryptography.hazmat.primitives.asymmetric import dh
