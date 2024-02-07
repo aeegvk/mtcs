@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+*.eggs
+
+# Test artifacts
+.tox/
+.coverage
+.htmlcov/
+.pytest_cache/
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+mtcs/
+venv/
