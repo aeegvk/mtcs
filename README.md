@@ -6,6 +6,12 @@ A simple client server app that swaps the cases of a message. Message is encoded
 
 ## Installation
 
+[Optional] create a virtual environment then activate
+```sh
+virtualenv mtcs
+source mtcs/bin/activate
+```
+
 Install the required packages by running:
 
 ```sh
