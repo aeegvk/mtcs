@@ -46,5 +46,13 @@ pytest
 
 * for the test, we need to run the server first for it to work. had no time to debug why the server is not running from the test file.
 
+## Improvements
+- Database implementation(Server counter persistence, Client Registry, Authentication, etc)
+- Constants for constant values
+- TLS/SSL implementation for secure communitation, encryption and decryption
+- Improve Testing(Coverage, Unit Tests, Integration Tests)
+- CI/CD (Docker, Kubernetes)
+- Sercurity (DDOS, SQL injection protection etc)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
